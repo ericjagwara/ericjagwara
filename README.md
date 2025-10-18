@@ -1,41 +1,51 @@
-<!-- Fun animated header -->
+<!-- Animated typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00B8B5&width=600&lines=Hello+Internet!;I'm+Eric+Jagwara...;I+break+things+until+they+work+😅;AI+%7C+IoT+%7C+Robotics+%7C+Chaos+with+Purpose!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00B8B5&width=600&lines=Hi,+I'm+Eric+Jagwara!;AI,+Robotics,+and+99+problems...;but+a+syntax+error+is+always+one+😅" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="280"/>
-</p>
-
----
-
-🧠 Probably training a model that still won’t converge.  
-⚙️ Once made a robot blink at me — still my proudest moment.  
-💻 Writes code like poetry… except the compiler always cries first.  
-☕ Coffee → Code → Existential crisis → Repeat.  
-🌍 Building tech in Uganda because someone has to start the future here.  
-🎧 Always debugging life with background music.  
-🐍 Python is my first language, sarcasm is my second.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericjagwara&show_icons=true&theme=tokyonight&hide_border=false" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericjagwara&theme=tokyonight&hide_border=false" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericjagwara&layout=compact&theme=tokyonight&hide_border=false" height="150"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220"/>
 </p>
 
 ---
 
-🥽 Currently pretending to understand the meaning of “production ready.”  
-🔌 If it has wires, sensors, or APIs, I’ll probably make it talk back.  
-🎨 Can design, code, and occasionally spell-check — a true full stack of chaos.  
-🧩 Favorite debugging tool: crying quietly, then trying again.  
-💬 Motto: “If it compiles, ship it. If it doesn’t, rename the folder.”  
-📦 Backup plan: convince ChatGPT to take my job.  
+🧠 Probably training an AI model that’s still plotting revenge.  
+⚙️ Spends half the time coding, half explaining to others why it “works on my machine.”  
+💡 Believes coffee is an API key to productivity.  
+🌍 Based in Uganda, exporting chaos globally.  
+🐍 Fluent in Python, sarcasm, and late-night debugging.  
+
+---
+
+### ⚡️ Totally Legit Developer Dashboard™
+
+| Metric | Current Value | Status |
+|--------|----------------|--------|
+| ☕ Coffees Consumed | `∞` | ☕☕☕☕☕ |
+| 💻 Code Commits (that actually work) | 12% | 😅 Improving |
+| 🧠 Neural Networks Understood | 0.7 / 10 | “It just learns, ok?” |
+| 🔌 IoT Devices Connected | 5 | 2 still smoking |
+| 🐞 Bugs Introduced per Day | 37 | “Features in disguise” |
+| 🚀 Projects Finished Before Deadline | 0 | Dream big |
+| 😴 Sleep Schedule | 404 | Not Found |
+| 🔐 Passwords Remembered | 1 | Probably “password123” |
+| 🎧 Debugging Playlist Hours | 9,876 | Lofi + Existential dread |
+| 🤖 Times Argued with ChatGPT | Too many | Usually loses |
+| 🧩 StackOverflow Tabs | 37 open | Never closing them |
+| 🛠 Tools Installed & Forgotten | 84 | “Will use someday” |
+| 🕹 Life Goal | Automate coffee machine | Work in progress |
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y1VZt2kD9K2l5NHiRM/giphy.gif" width="250"/>
+</p>
+
+---
+
+💬 Motto: *If it compiles, it ships. If it doesn’t, rename the folder and try again.*  
+📦 Backup plan: convince AI to finish my projects while I nap.  
+🎨 Design philosophy: “Make it pretty enough that no one questions the backend.”  
 
 ---
 
@@ -49,6 +59,6 @@
 ---
 
 <p align="center">
-  <b>“Still figuring it out... but it’s compiling fine so far.”</b><br/>
-  🌍 Made with ☕, 💡, and a bit of Uganda 🇺🇬
+  <b>“Still debugging life, but it runs fine in production.”</b><br/>
+  🌍 Built with ☕ + code + good Wi-Fi from Uganda 🇺🇬
 </p>
