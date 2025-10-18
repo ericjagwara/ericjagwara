@@ -1,64 +1,94 @@
-<!-- Animated typing intro -->
+<!-- Animated header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00B8B5&width=600&lines=Hi,+I'm+Eric+Jagwara!;AI,+Robotics,+and+99+problems...;but+a+syntax+error+is+always+one+😅" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=700&color=00F0FF&center=true&vCenter=true&width=700&lines=BOOTING+AI_PERSONALITY_MODULE...;Welcome+to+Eric+Jagwara's+Control+Panel;Status:+99%25+Operational+%7C+1%25+Coffee+Spill+Detected" alt="typing header" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220"/>
-</p>
-
----
-
-🧠 Probably training an AI model that’s still plotting revenge.  
-⚙️ Spends half the time coding, half explaining to others why it “works on my machine.”  
-💡 Believes coffee is an API key to productivity.  
-🌍 Based in Uganda, exporting chaos globally.  
-🐍 Fluent in Python, sarcasm, and late-night debugging.  
-
----
-
-### ⚡️ Totally Legit Developer Dashboard™
-
-| Metric | Current Value | Status |
-|--------|----------------|--------|
-| ☕ Coffees Consumed | `∞` | ☕☕☕☕☕ |
-| 💻 Code Commits (that actually work) | 12% | 😅 Improving |
-| 🧠 Neural Networks Understood | 0.7 / 10 | “It just learns, ok?” |
-| 🔌 IoT Devices Connected | 5 | 2 still smoking |
-| 🐞 Bugs Introduced per Day | 37 | “Features in disguise” |
-| 🚀 Projects Finished Before Deadline | 0 | Dream big |
-| 😴 Sleep Schedule | 404 | Not Found |
-| 🔐 Passwords Remembered | 1 | Probably “password123” |
-| 🎧 Debugging Playlist Hours | 9,876 | Lofi + Existential dread |
-| 🤖 Times Argued with ChatGPT | Too many | Usually loses |
-| 🧩 StackOverflow Tabs | 37 open | Never closing them |
-| 🛠 Tools Installed & Forgotten | 84 | “Will use someday” |
-| 🕹 Life Goal | Automate coffee machine | Work in progress |
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Y1VZt2kD9K2l5NHiRM/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/H7wajFPnZGdRWaQeu0/giphy.gif" width="420"/>
 </p>
 
 ---
 
-💬 Motto: *If it compiles, it ships. If it doesn’t, rename the folder and try again.*  
-📦 Backup plan: convince AI to finish my projects while I nap.  
-🎨 Design philosophy: “Make it pretty enough that no one questions the backend.”  
+<pre>
 
----
+─────────────────────────────────────────────
+ SYSTEM: JAGWARA.AI [Ver. 2.5.1-beta]
+ LOCATION: Kampala, Uganda
+ STATUS: ONLINE ☑
+─────────────────────────────────────────────
+
+"Running on caffeine, curiosity, and slightly unstable Wi-Fi."
+
+
+🧠  SYSTEM OVERVIEW
+───────────────────
+  ▷ Artificial Intelligence Engine ............ ACTIVE
+  ▷ Robotics & IoT Systems .................... CALIBRATING
+  ▷ Cybersecurity Shield ...................... 96% Integrity
+  ▷ UX/UI Visual Interface .................... ✨ Polished Enough
+  ▷ Mentorship & Leadership Protocol .......... ENGAGED
+  ▷ Sanity Checks ............................. FAILED (expected)
+
+
+📊  LIVE DIAGNOSTICS DASHBOARD
+──────────────────────────────
+  CPU (Brain) Usage: ████████░░░ 83%    → Thinking about automation
+  RAM (Focus): ████░░░░░░░░░░░░░ 26%    → Lost to Slack pings
+  GPU Temp: ██████████░░░░░░░░░ 67°C    → Probably fine
+  Battery Health: ▓▓▓▓▓░░░░░░░░░░░░░░░░ 38%  → Recharging with coffee
+  Network: 127.0.0.1  → Still blaming DNS
+  AI Ethics Subroutine: [RUNNING] (Trying not to build Skynet)
+
+
+🛰  ACTIVITY LOG
+────────────────
+  > Deploying new models... still training after 400 epochs
+  > Fixed one bug, spawned three more
+  > IoT device connected, then panicked
+  > Debugging neural networks... emotionally
+  > Data pipeline stable (ish)
+
+
+🧩  ENVIRONMENT VARIABLES
+─────────────────────────
+  NAME=Eric_Jagwara
+  ROLE=AI_Researcher / Technologist / Community_Builder
+  LOCATION=Uganda
+  COFFEE_INTENSITY=Overclocked
+  FAVORITE_EXCEPTION="It works on my machine"
+  LANGUAGES=Python, JavaScript, Machine_Sarcasm
+
+
+</pre>
 
 <p align="center">
-  <a href="https://linkedin.com/in/eric-jagwara-1188aa133"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://zindi.africa/users/jagwara"><img src="https://img.shields.io/badge/Zindi-purple?style=for-the-badge&logo=zindi"/></a>
-  <a href="mailto:eric@tufuna.org"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://tufuna.org"><img src="https://img.shields.io/badge/Website-teal?style=for-the-badge&logo=google-chrome"/></a>
+  <img src="https://media.giphy.com/media/l46CjOg8GvC6qZ6ik/giphy.gif" width="300"/>
 </p>
 
 ---
 
+### 📡  COMMUNICATION PROTOCOLS
+
 <p align="center">
-  <b>“Still debugging life, but it runs fine in production.”</b><br/>
-  🌍 Built with ☕ + code + good Wi-Fi from Uganda 🇺🇬
+  <a href="https://linkedin.com/in/eric-jagwara-1188aa133"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://zindi.africa/users/jagwara"><img src="https://img.shields.io/badge/Zindi-4B0082?style=for-the-badge&logo=zindi&logoColor=white"/></a>
+  <a href="mailto:eric@tufuna.org"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://tufuna.org"><img src="https://img.shields.io/badge/Website-00B8B5?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+---
+
+<pre>
+
+─────────────────────────────────────────────
+ FINAL MESSAGE:
+ “Building Africa’s AI future... 
+  one debugging session at a time.”
+─────────────────────────────────────────────
+
+</pre>
+
+<p align="center">
+  <b>System Signature: ERIC_JAGWARA@AFRICA_AI_NETWORK</b><br/>
+  🌍 Compiled with ❤️ and ☕ from Uganda 🇺🇬
 </p>
