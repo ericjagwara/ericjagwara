@@ -2,7 +2,7 @@
 
 # 👋 Eric Jagwara
 
-### AI & Embedded Systems Engineer • Visual & Motion Designer •  Community Builder
+### AI & Embedded Systems Engineer • Visual & Motion Designer •  Community Builder •  Researcher
 
 *Building technology **with people and for people** in Kampala, Uganda*
 
@@ -13,7 +13,7 @@
 
 ---
 
-Hello, I’m Eric Jagwara, an AI and Embedded Systems engineer, designer, and community builder based in Kampala, Uganda. I enjoy building technology with people and for people by combining code, design, and local context. Beyond tech, I love creating in many forms, from visual design to paintings and crafts.
+Hello, I’m Eric Jagwara, an AI and Embedded Systems engineer, Visual and motion designer, and community builder based in Kampala, Uganda. I enjoy building technology with people and for people by combining code, design, and local context. Beyond tech, I love creating in many forms, from visual design to paintings and crafts.
 
 ## What drives me
 - Community-first learning, mentorship, and collaboration
