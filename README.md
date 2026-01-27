@@ -2,7 +2,7 @@
 
 # 👋 Eric Jagwara
 
-### AI & AIoT Engineer • Visual & Motion Designer •  Community Builder
+### AI & Embedded Systems Engineer • Visual & Motion Designer •  Community Builder
 
 *Building technology **with people and for people** in Kampala, Uganda*
 
@@ -43,6 +43,8 @@ Community is not a side activity for me , it is central to my work. I actively c
 - **Frameworks:** Django, Ruby on Rails, React, Next.js, Node.js
 - **AI & Data:** PyTorch, scikit-learn, NLP & forecasting
 - **IoT:** Arduino, Raspberry Pi
+- **Blockchain:** Solidity, Web3.js
+- **Quantum:** Qiskit
 - **Design & 3D:** UI/UX, graphic design, 3D modelling & animation  
   (Blender, Maya, 3ds Max, Cinema 4D, ZBrush, Modo, Revit, Harmony, Adobe Creative Cloud)
 ---
