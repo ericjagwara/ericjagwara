@@ -30,7 +30,8 @@ Community is not a side activity for me , it is central to my work. I actively c
 - **Hub Leader** — Young AI Leaders Community (AI for Good) - Kampala Hub  
 - **Country Ambassador (Uganda)** - Zindi Africa  
 - **Community Engagement Chair** - IndabaX Uganda  
-- **Mentor (Volunteer)** - Deep Learning Indaba  
+- **Mentor** - Deep Learning Indaba
+- **Member** - Tonative  
 - **Member** - DS-I Africa programs  
 - **Member** - Data Science Africa  
 - **Member / Trainer** - Data Science Network (DSN)  
