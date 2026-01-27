@@ -1,13 +1,12 @@
-<div align="center">
+<div align="left">
 
-# 👋 Eric Jagwara
+
 
 ### AI & Embedded Systems Engineer • Visual & Motion Designer •  Community Builder •  Researcher
 
 *Building technology **with people and for people** allover the world*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ug.linkedin.com/in/eric-jagwara-1188aa133)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericjagwara@gmail.com)
+
 
 </div>
 
