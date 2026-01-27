@@ -13,7 +13,7 @@
 
 ---
 
-Hello, I’m Eric Jagwara, an AI and AIoT engineer, designer, and community builder based in Kampala, Uganda. I enjoy building technology with people and for people, combining code, design, and local context to create systems that are useful, inclusive, and rooted in community.
+Hello, I’m Eric Jagwara, an AI and Embedded Systems engineer, designer, and community builder based in Kampala, Uganda. I enjoy building technology with people and for people by combining code, design, and local context. Beyond tech, I love creating in many forms, from visual design to paintings and crafts.
 
 ## What drives me
 - Community-first learning, mentorship, and collaboration
@@ -24,18 +24,19 @@ Hello, I’m Eric Jagwara, an AI and AIoT engineer, designer, and community buil
 - Curiosity about how models learn and behave
 ---
 ## Community, leadership & volunteering
-Community is not a side activity for me — it is central to my work. I actively contribute to, lead, and support tech and research communities across Africa through volunteering, mentorship, and leadership roles.
-- **Hub Leader** — Young AI Leaders Community (AI for Good) – Kampala Hub  
-- **Country Ambassador (Uganda)** — Zindi Africa  
-- **Community Engagement Chair** — IndabaX Uganda  
-- **Mentor (Volunteer)** — Deep Learning Indaba  
-- **Member ** — DS-I Africa programs  
-- **Member** — Data Science Africa  
-- **Member / Trainer ** — Data Science Network (DSN)  
-- **Member** — CoARA-ERIP (Coalition for Advancing Research Assessment)  
-- **Trainer & Facilitator** — AI, ML, and emerging technology programs  
-- **Reviewer / Mentor** — regional and global AI hackathons  
-- **Research contributor** — TechBuzz Hub  
+Community is not a side activity for me , it is central to my work. I actively contribute to, lead, and support tech and research communities across Africa through volunteering, mentorship, and leadership roles.
+
+- **Hub Leader** — Young AI Leaders Community (AI for Good) - Kampala Hub  
+- **Country Ambassador (Uganda)** - Zindi Africa  
+- **Community Engagement Chair** - IndabaX Uganda  
+- **Mentor (Volunteer)** - Deep Learning Indaba  
+- **Member** - DS-I Africa programs  
+- **Member** - Data Science Africa  
+- **Member / Trainer** - Data Science Network (DSN)  
+- **Member** - CoARA-ERIP (Coalition for Advancing Research Assessment)  
+- **Trainer & Facilitator** - AI, ML, and emerging technology programs  
+- **Reviewer / Mentor** - regional and global AI hackathons  
+- **Research contributor** - TechBuzz Hub  
 ---
 ## Tech & tools
 - **Languages:** Python, JavaScript, TypeScript, Ruby, R, C
