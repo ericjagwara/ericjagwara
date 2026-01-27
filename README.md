@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Eric Jagwara Ofuono
+# 👋 Eric Jagwara
 
 ### AI & AIoT Engineer • Visual & Motion Designer •  Community Builder
 
@@ -52,7 +52,6 @@ Community is not a side activity for me — it is central to my work. I actively
 ---
 ## Connect
 - LinkedIn: https://ug.linkedin.com/in/eric-jagwara-1188aa133
-- Email: ericjagwara@gmail.com
 ---
 Community is not an add-on to my work — it is the foundation.
 "
