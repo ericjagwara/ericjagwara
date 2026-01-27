@@ -15,10 +15,11 @@
 
 Hello, I’m Eric Jagwara, an AI and Embedded Systems engineer, Visual and motion designer, and community builder based in Kampala, Uganda. I enjoy building technology with people and for people by combining code, design, and local context. Beyond tech, I love creating in many forms, from visual design to paintings and crafts.
 
-## What drives me
+## My focus areas
 - Community-first learning, mentorship, and collaboration
 - Applied AI, machine learning, and AIoT (edge AI, robotics, embedded systems)
 - UI/UX, graphic design, 3D modelling, and visual storytelling
+- Exploring blockchain and quantum computing in practical, real-world contexts
 - Culture, language, and local knowledge preservation through technology
 - Data analysis, forecasting, and NLP
 - Curiosity about how models learn and behave
