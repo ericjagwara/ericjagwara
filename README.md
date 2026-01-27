@@ -2,7 +2,7 @@
 
 # 👋 Eric Jagwara Ofuono
 
-### AI & AIoT Engineer • Visual & Motion Designer• Startup & Venture Advisory Consultant • Community Builder
+### AI & AIoT Engineer • Visual & Motion Designer •  Community Builder
 
 *Building technology **with people and for people** in Kampala, Uganda*
 
@@ -13,9 +13,8 @@
 
 ---
 
-Hullooo.. Am Eric Jagwara, AI & AIoT engineer, designer, and community builder based in Kampala, Uganda.
-I enjoy building technology **with people and for people** — blending code, design, and local context to create systems that are useful, inclusive, and grounded in community.
----
+Hello, I’m Eric Jagwara, an AI and AIoT engineer, designer, and community builder based in Kampala, Uganda. I enjoy building technology with people and for people, combining code, design, and local context to create systems that are useful, inclusive, and rooted in community.
+
 ## What drives me
 - Community-first learning, mentorship, and collaboration
 - Applied AI, machine learning, and AIoT (edge AI, robotics, embedded systems)
