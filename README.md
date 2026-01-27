@@ -13,7 +13,7 @@
 
 ---
 
-Hello, I’m Eric Jagwara, an AI and Embedded Systems engineer, Visual and motion designer, and community builder. I enjoy building technology with people and for people by combining code, design, and local context. Beyond tech, I love creating in many forms, from visual design to paintings and crafts.
+Hello, I’m Eric Jagwara, an AI and Embedded Systems engineer, Visual and motion designer, community builder and researcher. I enjoy building technology with people and for people by combining code, design, and local context. Beyond tech, I love creating in many forms, from visual design to paintings and crafts.
 
 ## My focus areas
 - Community-first learning, mentorship, and collaboration
